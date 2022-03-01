@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Right Honourable Henry Earle of Cvmberland lord lievtenant generall of His Majesties forces in York-shire and of the nobility, gentry and others His Majesties subjects now assembled at Yorke for His Majesties service and the defence of this city and county.</title>
+            <author>Cumberland, Henry Clifford, Earl of, 1591-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20928</idno>
+            <idno type="STC">Wing C7579</idno>
+            <idno type="EEBO-CITATION">13066484</idno>
+            <idno type="OCLC">ocm 13066484</idno>
+            <idno type="VID">197911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 266:E244, no 18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Right Honourable Henry Earle of Cvmberland lord lievtenant generall of His Majesties forces in York-shire and of the nobility, gentry and others His Majesties subjects now assembled at Yorke for His Majesties service and the defence of this city and county.</title>
+                  <author>Cumberland, Henry Clifford, Earl of, 1591-1643.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published: Yorke : 1642.</note>
+                  <note>Reel 266:E.244, no. 18.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197911:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of the Right Honourable HENRY EARLE OF CVMBERLAND. LORD Lievtenant Generall of His MAjESTIES Forcs in <hi>York-ſhire.</hi>
+            </p>
+            <p>And of the Nobility, Gentry, and others His <hi>Majeſties</hi> Subjects now aſſembled at <hi>Yorke</hi> for His <hi>Majesties</hi> Service and the Defence of This City and County.</p>
+            <p>Firſt Printed at <hi>Yorke,</hi> and now re-printed at <hi>London;</hi> By ſpeciall Command. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197911:2"/>
+            <head>THE DECLARATION Of the Right Honorable, HENRY, Earle of CUMBERLAND, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Rom the deep ſence of the growing miſeries which have formerly afflicted this diſtreſſed Country; and out of the grievous apprehenſion of thoſe inevita<g ref="char:EOLhyphen"/>ble ruines, and deſolations, with a reall Warre fomented, hatched, and brought forth by our con<g ref="char:EOLhyphen"/>tinuall diſtractions, muſt infallibly bring upon us; We thought it the leaſt of our duty to our God, our King, and our Countrey, to endeavour all means poſſible to diſcharge our ſelves before God and Man, and to leave nothing unattempted which might avert and prevent thoſe fearfull calamities which as it muſt be conſequently the moſt bloudy and ruinous Warre of all others; and therefore in purſuance of that due affection to our Native Countrey; We firſt prevailed with our moſt gracious Sove<g ref="char:EOLhyphen"/>raigne, whoſe Royall Inclination met our humble deſires, in the moſt ready wayes, and apparent meanes which we could deviſe and finde out the peace and ſafety thereof, and ſet aſide all other reſpects, though never ſo much conducing to the main of His owne affaires, for our ſecurity; and therefore carried away the fatall Cloud of Warre, which in a hideous form hung over our heads, to disburden it ſelfe in another Climate, ſo as wee con<g ref="char:EOLhyphen"/>ceived, wee had no further worke of labour, but to pay the duties of praiſe and thankfulneſſe to our God and King, whoſe grace and goodneſſe had freed us from the viſible conſequen<g ref="char:EOLhyphen"/>ces of a great and terrible tempeſt, but ſince it hath pleaſed
+<pb facs="tcp:197911:2"/>the unſearchable Wiſedome of Almighty God ſo to order it, That another ſtorme hath broken and powred a great part of it upon this Countrey (when we leaſt feared, and by thoſe means which we leaſt ſuſpected) and that contrary to all expectation work our miſery) there appeared thoſe out of our owne Bowels, which have begun a War and kindled a flame, which doth haz<g ref="char:EOLhyphen"/>ard the ruine and deſtruction of their Native Country; which we take as a Puniſhment due to our manifold ſins and offences, and leave the particuler executioners thereof, to His owne wiſe<g ref="char:EOLhyphen"/>dome and Juſtice hereafter, yet we have not been a wanting to the ſafety and protection of this People (ſo long, and in ſo many wayes afflicted, but have appolyed our ſelves to all ſuch wayes and means, which in Humane reaſon we could hope might pro<g ref="char:EOLhyphen"/>cure a timely remedy to thoſe bleeding wounds. And therefore in a Treaty at <hi>Rodwell,</hi> with ſome Gentlemen of this County, of whoſe affection to peace and Unity (though differing in Opini<g ref="char:EOLhyphen"/>on from us) we were moſt confident: Sundry Articles were a greed and Concluded upon, all wholly tending to thoſe ends, and conducing to reall ſettlement, which was ſought after by us with ſo much candor plaine dealing, and earneſtneſſe, that we willingly let paſſe the manifeſt advantages which we then had over the oppoſers of the ſetled Peace of this County, and judg<g ref="char:EOLhyphen"/>ing the affections of others by our own deſires and inclinations, declined and quitted all other conſiderations, but ſuch as might purchaſe a good correſpondence and amity with thoſe Gentle<g ref="char:EOLhyphen"/>men and others, whom at that time it lay in our Power to have forced or deſtroyed; and that nothing might be a wanting to ob<g ref="char:EOLhyphen"/>lige them, ſet at Liberty ſundry Priſoners, ſome of good qua<g ref="char:EOLhyphen"/>lity, upon their word and Faith, to returne them againe if the Treaty were not performed; and condeſcended to all the World knows that we aymed at the Publique ſafety and aſſurance: Yet notwithſtanding all this, without the leaſt breach on our behalf, particuler paſſions and intereſts hath ſo far prevailed, That as, ſoone as they were freed of the danger wherein they were then engaged, contrary to their <hi>Hands, Faith</hi> and <hi>proteſtations,</hi> they have wholly broken that Agreement ſo ſolemnly concluded, &amp; without rendring the leaſt reaſon (which indeed is impoſſible and of which they can never excuſe themſelves) have with
+<pb facs="tcp:197911:3"/>indirect intentions; and by a ſpecious offer of Peace (which it ſeems was the leaſt of their thoughts) ſtrengthned, and prepared themſelves for War, by pretence of ſafety to the County, diſvel<g ref="char:EOLhyphen"/>oped themſelves from danger, and procured ſecurity to their own perſons, and by a ſeeming deſire to ſtop the deluge of War (began by them alone) opened a breach to all the miſeries &amp; ca<g ref="char:EOLhyphen"/>lamities which muſt now moſt invitable overwhelm this diſtreſ<g ref="char:EOLhyphen"/>ſed Country; wherby before the utmoſt extremity hath appear<g ref="char:EOLhyphen"/>ed, we have already ſuffered what can befall any people (ſetting aſide, firing Townes and Villages) by the Hand of a cruell and Forr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igne enemy: Strangers brought into oppreſſe us, our houſes plundred, good, deſtroyed and taken away, our houſholds diſper<g ref="char:EOLhyphen"/>ſed, Wives and children baniſhed, the perſons of divers of us ſei<g ref="char:EOLhyphen"/>zed, and Impriſoned, our lives endangered, and ſought after, by Sword or Famine; (and what is beyond all beliefe) thoſe who are unqueſtionably innocent, and in no capacity to be involved in our pretended offences (if we be guilty of any) our Children (even thoſe whoſe Infant yeares admit no colour of objection) our Servants (employed only in domeſtick, commands) ſought after, and indangered in the ſame meaſure and degree of cruelty, violence, and oppreſſion. And that no aggravation may be a wan<g ref="char:EOLhyphen"/>ting to enereaſe our ſufferings, all thoſe exorbitances executed under the glorious pretences of ſafety of Religion and preſerva<g ref="char:EOLhyphen"/>tion of State, and done by Authority and command of Parlia<g ref="char:EOLhyphen"/>ment (which we acknowledge and believe to be the Guardian of Publique liberty) and who we are confident being choſen by us for aſſertors of our Freedoms, will not enthrale us; being truſted with the property of our goods, wil not take them from us; being ſelected for the preſervation of our Laws, will not violate or in<g ref="char:EOLhyphen"/>fringe them; and that in ſo high a meaſure, as more could not be perpetrated, if we were conquered and ſubdued by the moſt bar<g ref="char:EOLhyphen"/>barous and violent Enemy. We have heard and do believe, That both the Houſes have commanded the <hi>Militia</hi> to be ſetled and that they thinke it neceſſary, for ſome reaſons (beſt knowne to themſelves) that the power wch untill this time, hath bin unque<g ref="char:EOLhyphen"/>ſtionably in the Kings of this land, ſhould now be ſetled in the<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſelves yet theſe admitted, we cannot be perſwaded, That it is the intention or meaning of the Parliament, that all who are not con<g ref="char:EOLhyphen"/>vinced
+<pb facs="tcp:197911:3"/>of the neceſsity, or who cannot diſpence with their Oathes, which tyes them to the knowne Lawes of the Land till they be repealed, and to obey His Majeſties command in thoſe things wherein it appeares He hath manifeſt Right, untill He hath given away and parted with that Right by His owne aſſent; or who are yet Newters, and conſcionably, expect a legall Rule whereby to be directed, ſhould preſently with out due proceſſe of Law, be deveſted from all property of Goods, Liberty of Perſons, Lives and Fortunes, and be in a worſe con<g ref="char:EOLhyphen"/>dition for not performing what is yet no Law, then any Man can be for offending and diſobeyng all the Lawes which were ever yet eſtabliſhed: and much leſſe, that the friends and ſervants, the faulty and guiltleſſe, thoſe whoſe condition or inability free them from aſsiſting in, or excerciſing any <hi>Militia,</hi> Clergy-men, Babes, Old Men, Women, ſhould be included and wrapped up in one common fate and deſtruction, contrary to the rules of God and nature; which make a large difference between the inno<g ref="char:EOLhyphen"/>cent, and the offender, &amp; the cuſtoms and Lawes of this Realme, which give freedom to diverſe in thoſe caſes and have ſo long maintained this Kingdome in peace, by diſtributing rewards and puniſhments (not to all a like) but to the conſcionably obedient, or wilfull contemners thereof. Theſe diſtructive courſes of vio<g ref="char:EOLhyphen"/>lence, pretending neceſſity, were ever oppoſed when they were executed by Regall power, deferred and proteſted againſt by his Sacred <hi>Majeſty,</hi> altogether condemned by former, and this pre<g ref="char:EOLhyphen"/>ſent Parliament, &amp; not to be done or conſented to by any, with<g ref="char:EOLhyphen"/>out diſobedience to His <hi>Majeſty,</hi> offence to the Parliament, and injury to the Freedom and Liberty of this people and Kingdom. But wee are farre from beleiving theſe to be the command and Acts of an Engliſh Parliament, which our ſelves have ſo earneſt<g ref="char:EOLhyphen"/>ly deſired, ſo faithfully ſupported; but rather of ſome perſons, who (being now) contrary to their hopes, armed with power to gaine the affections of their Souldiers for farther ends and deſignes, and to make their particular profit by the generall ſpoyle, give away to this licentiouſneſſe, and ſuffer them to ran<g ref="char:EOLhyphen"/>ſome perſons and deſtroy the goods of the innocent people, and to make havocke and ſpoyle of all which comes in their way, let<g ref="char:EOLhyphen"/>ting looſe the Raines of government, and giving way to all man<g ref="char:EOLhyphen"/>ner of rapine (though the gaine on their ſide doth in no meaſure
+<pb facs="tcp:197911:4"/>countervaile the loſſe on the other) to the unſpeakeable detri<g ref="char:EOLhyphen"/>ment and dammage of this our flouriſhing, now miſerable Coun<g ref="char:EOLhyphen"/>trey. By which courſes it hath beene already endammaged (as we offer to make good) to the value of 100000 l. beſides the ſuf<g ref="char:EOLhyphen"/>ferance of many ſuch barbarous outrages, ſcarce credible to be committed by Chriſtians; and thoſe ſo frequent, that if poſ<g ref="char:EOLhyphen"/>ſible, they can be denied; and that the Houſes will admit the proofe, we ſhall make them appeare in ſuch numbers, and ſo ab<g ref="char:EOLhyphen"/>hominable, will exceed the beliefe of any, unleſſe they ſee them ſufficiently witneſſed and atteſted. Out of our deſire of peace, wee have already endured beyond mortall ſufferance, and are ready to ſuffer ſtill in our owne particulars; and to ſet a part all Intereſts of our owne, and to expoſe our ſelves to the height of violence and rigour though undelerved (unleſſe to obey our King according to His Laws be an offence) before we will hazard the peace of this County, and this people, for any regard or re<g ref="char:EOLhyphen"/>ſpect whatſoever. And therefore becauſe as our Adverſaries doe ſpeciouſly pretend, That their Armes are raiſed only for ſeizing upon Delinquents, and bringing them to condigne pu<g ref="char:EOLhyphen"/>niſhments, or driving them out of the Country (which is their baite to catch the multitude.) We do unanimouſly profeſſe and declare (although we are confident, and that their practiſes ſhew that whoſoever hath mony or Place, or Moveables, is a Delin<g ref="char:EOLhyphen"/>quent, and muſt part with them ere he be guiltles.) to take away all ſcruples, if they will ſet down and expreſſe the names of the Delinquents (if any be amongſt us) and their offences, upon aſſu<g ref="char:EOLhyphen"/>rance that no other end is ſought by their Armes; and that once obtained, they will abſolutely lay them down, and free the coun<g ref="char:EOLhyphen"/>try: it ſhall be manifeſted, That we will not decline any juſt and legall tryall, or deſire that a war ſhould be continued, or the peo<g ref="char:EOLhyphen"/>ple diſturb'd for the ſafegard of them, or any of them: although we are moſt aſſured, that when by the tearme of Delinquency, they have quit their hands of ſuch, who are moſt likely to op<g ref="char:EOLhyphen"/>poſe the ruinous proceedings, that others whoſe wealth, eſtates, or former actions unpleaſing to theſe men, have made them ob<g ref="char:EOLhyphen"/>noxious, ſhall ſucceed in the ſame miſery; and very many, who ſuppoſe themſelves in a good condition of grace &amp; favour with them, ſhall fall into the like misfortune, as ſoon as the Lyon ſees
+<pb facs="tcp:197911:4"/>fit time to diſcover his hidden Clawes; it being impoſſible they ſhould be in a better eſtate of Innocency, then our ſelves, who have not at all wilfully offended, or oppoſe any of the knowne Lawes of this Kingdom. We have had wofull and ſad experi<g ref="char:EOLhyphen"/>ence, that the more our Adverſaries are ſought unto for peace, the farther they are eſtranged from it; and that all lenitive ap<g ref="char:EOLhyphen"/>plications, doe but exaſperate our diſeaſe. We doe proteſt be<g ref="char:EOLhyphen"/>fore God and man, That wee will yet apply our ſelves to all meanes which may conduce to quiet, and ſettlement; but in the meane time will really and effectually labour for the ſafety of this Country our ſelves, our wives, and children; and if for the preſervation of all, that ought to be defended, and maintained by Mortall man: we are neceſſitated and compelled by their ex<g ref="char:EOLhyphen"/>ample to call in Forces, and deſire the Aſſiſtance of the Earle of Newcaſtle, and of our friends and Neighbours in the adjacent Counties (being of our own nation, and whoſe turne is next, and cauſe the ſame with ours, and that thereby ſome unforeſeen or unwiſhed accident ariſe, not then to be remedied, and that York<g ref="char:EOLhyphen"/>ſhire become an Akeldama and field of blood, we lay the conſe<g ref="char:EOLhyphen"/>quence? and effects thereof at the dores, and upon the heads of thoſe men who firſt began, and kindled the flame in this Coun<g ref="char:EOLhyphen"/>ty, and have hitherto refuſed our moſt brotherly and peaceable offers, and endeavouring for Unity &amp; tranquility, which on our parts hath bin ſo earneſtly ſought after, and attempted; that wee can juſtly now ſay, we have freed our own ſoules, diſcharged the duty of Chriſtians, Engliſhmen, Patriates, and have bin re<g ref="char:EOLhyphen"/>fuſed in all: ſo as there remaines no more, but to defend our Country from Strangers, our Lives from violence, our Wives and children from extremity of injury, our Houſes from Rapine, our goods from ſpoyle, our Laws, liberties, property, and what<g ref="char:EOLhyphen"/>ſoever is or can be neere or deare unto us, from utmoſt hazard and deſtruction. In execution or which reſolution, there is no courſe or meanes omitted, which may (as far as is poſſible) con<g ref="char:EOLhyphen"/>duce to the benefit and preſervation of the people. The Earl of Newcaſtle required aſſurance before he would march to our aſ<g ref="char:EOLhyphen"/>ſiſtance, that the Country ſhould be payed the billet of his Soul<g ref="char:EOLhyphen"/>diers, which was before thought upon, and reſolved by us, and caution is accordingly given; ſo that no man will receive <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſſe
+<pb facs="tcp:197911:5"/>or dammage by thoſe forces, as far as it is in our power to pro<g ref="char:EOLhyphen"/>vide or foreſee. And becauſe they have hitherto built up them<g ref="char:EOLhyphen"/>ſelves upon falſe reports and foundations, and diſguiſe and make the truth according as it my beſt fit their ends, and ſerve their purpoſes; and thereby not onely perſwade the people with de<g ref="char:EOLhyphen"/>ceitfull rumours of his Majeſties unfortunate proceedings (when in truth God hath wonderfully bleſſed him with moſt fortunate ſucceſſe) but alſo caſting falſe lights before their eyes, lay ſcan<g ref="char:EOLhyphen"/>dalous aſpertions upon our actions and reall intendments, for the benefit of this County, ſtriving to poſſeſſe them with a prejudi<g ref="char:EOLhyphen"/>cacy of whatſoever we go about to do; &amp; accordingly are how ſeeking to poyſon the minds of the people with a falſe opinion, and cauſeleſſe jealouſie, That the Army now comming to our aſſiſtance, is aſſigned for the oppreſſion, not deliverance; the deſtruſtion, not ſafegard of the Country; and will be the ruine of it whereſoever they paſſe. To ſtop the poyſonous mouthes of malice it ſelfe, the Earle of New-Caſtle hath declared his honourable intentions, to leave the County in peace, as ſoone as he hath delivered it from theſe enemies of His Majeſty, who now oppreſſe and tyranniſe over it. In which endeavour wee doubt not, to find the reall concurrence of all who have intereſt in this County, and that they will not be behind their Neigh<g ref="char:EOLhyphen"/>bours and Allyes in ſeeking their owne preſervations, being all owners of one common cauſe, and muſt (what ever pretences be made) in the end, runne the ſame courſe of violence and diſola<g ref="char:EOLhyphen"/>tion. How ever, though we periſh in this worke, we ſhall reſt ſa<g ref="char:EOLhyphen"/>tisfied, that we have preſerved our Faith and Honour untainted: and if all other diſert us in this reſolution, we will not faile our ſelves, nor our duty to our King and Country; wherein appeares ſo much Juſtice and Piety: but are moſt confident by Gods bleſſing upon the performance of our juſt endeaours; to re<g ref="char:EOLhyphen"/>preſſe the enemies of his Majeſties peace, and to conſerve our ſelves and this Country, to the Glory of God, the ſervice of our King, and mutuall comfort of one another.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
